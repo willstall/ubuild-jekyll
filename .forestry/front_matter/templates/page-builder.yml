@@ -32,5 +32,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- _posts/example-pagebuilder-jawn.md
+- _posts/2022-10-12-example-pagebuilder-jawn.md
 - index.md
