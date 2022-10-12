@@ -56,6 +56,5 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-published: false
 
 ---
