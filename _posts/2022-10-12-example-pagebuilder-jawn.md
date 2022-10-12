@@ -15,6 +15,10 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: detail-content
+  block: text-1
+  headline: a
+  content: "<p>sdfdsfdsafdas</p><p></p><p>dsf</p><p>fds</p><p>dfs</p><p>fdsa</p><p>dfs</p><p>fdsa</p><p></p>"
 menu:
   main:
     weight: 2
