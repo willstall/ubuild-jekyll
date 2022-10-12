@@ -18,6 +18,6 @@ page_sections:
 menu:
   main:
     weight: 2
-    title: ''
+    title: Example Page
 
 ---
