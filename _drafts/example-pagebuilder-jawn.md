@@ -10,7 +10,7 @@ page_sections:
     image: ''
     alt_text: ''
   headline: I'm a new test page
-  content: ''
+  content: sadsadsadsadasdas
   cta:
     enabled: false
     url: ''
